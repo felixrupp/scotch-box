@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a7c29d4e-743a-4647-a34b-8ee7daeeda4f" name="Default" comment="">
+    <list default="true" id="a7c29d4e-743a-4647-a34b-8ee7daeeda4f" name="Default" comment="Change workspace settings">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -116,7 +116,7 @@
       <workItem from="1506287126784" duration="6266000" />
       <workItem from="1506337118658" duration="981000" />
       <workItem from="1515710212601" duration="555000" />
-      <workItem from="1515711158478" duration="71000" />
+      <workItem from="1515711158478" duration="92000" />
     </task>
     <task id="LOCAL-00001" summary="Add provisioner for typo3">
       <created>1506294556912</created>
@@ -139,11 +139,18 @@
       <option name="project" value="LOCAL" />
       <updated>1515711213537</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Change workspace settings">
+      <created>1515711243431</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1515711243431</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8428000" />
+    <option name="totallyTimeSpent" value="8449000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1436" height="824" extended-state="0" />
@@ -183,7 +190,8 @@
     <MESSAGE value="Add provisioner for typo3" />
     <MESSAGE value="Save index.php" />
     <MESSAGE value="Fix gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fix gitignore" />
+    <MESSAGE value="Change workspace settings" />
+    <option name="LAST_COMMIT_MESSAGE" value="Change workspace settings" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
