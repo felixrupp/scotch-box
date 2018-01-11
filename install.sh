@@ -15,6 +15,10 @@ sudo apt-get -y autoremove;
 
 sudo apt-get -y upgrade;
 
+gem update --system;
+gem install sass --no-user-install;
+gem install compass --no-user-install;
+
 ## Install TYPO3
 cd /var/www/;
 mkdir typo3-sources && cd typo3-sources;
